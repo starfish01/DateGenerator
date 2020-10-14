@@ -1,0 +1,5 @@
+.DS_Store
+/uploads/
+.state
+/node_modules/*
+/vendor
